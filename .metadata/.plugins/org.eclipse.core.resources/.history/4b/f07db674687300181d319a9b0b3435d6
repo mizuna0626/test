@@ -1,0 +1,25 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// Hello World!の出力
+    
+
+String[][] country = new String[3][2];
+
+country[0][0] = "日本";
+country[0][1] = "タイ";
+country[1][0] = "アメリカ";
+country[1][1] = "ブラジル";
+country[2][1] = "フランス";
+country[2][2] = "ロシア";
+
+		
+System.out.println(country[1][1]);
+		
+
+}
+
+
+}
+
