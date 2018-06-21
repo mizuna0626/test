@@ -1,0 +1,8 @@
+
+public class RobotTest {
+public static void main(String[] args){
+Robot aibo = new Robot();
+aibo.name="アイボ";
+aibo.talk();
+}
+}

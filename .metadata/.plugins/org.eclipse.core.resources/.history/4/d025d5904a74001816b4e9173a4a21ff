@@ -1,0 +1,15 @@
+public class Test{
+public static void main(String[] args){
+Person taro = new Person();
+taro.name="山田太郎";
+taro.age=20;
+System.out.println(taro.name);
+System.out.println(taro.age);
+
+taro.address ="東京";
+taro.phonenumber= "090 000 000"
+taro.talk();
+Person jiro = new Person();
+Person saburo = new Person();
+
+}}
